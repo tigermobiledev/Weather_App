@@ -1,0 +1,77 @@
+name: weather_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  cached_network_image: # for network image
+  carousel_slider: # for image slider
+  cupertino_icons: # cupertino icons
+  dio: # for api requests
+  flutter_animate: # for animation
+  flutter_launcher_icons: # change app icon
+  flutter_screenutil: # make app responsive
+  flutter_spinkit: # for loading indicator
+  flutter_svg: # for svg icons
+  geocoding: # for location
+  get: # for state management and context less stuff
+  http_mock_adapter: # mocking dio for testing
+  intl: # for date format
+  json_annotation: # for JSON serialization and deserialization
+  location: # for location
+  logger: # log events in clear way insted of (print)
+  lottie: # for Adobe After Effects animations
+  mocktail: # for mocking
+  pretty_dio_logger: # for dio api logging and debugging
+  shared_preferences: # shared preferences persistence key value store
+  shimmer: # for shimmer effect
+  smooth_page_indicator: # for onboarding screen
+  step_progress_indicator: # for progress indicator
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  build_runner: # for JSON serialization and deserialization
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  json_serializable: # for JSON serialization and deserialization
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+  adaptive_icon_background: "#6151C3"
+  adaptive_icon_foreground: "assets/images/app_icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/vectors/
+    - assets/fonts/
+    - assets/data/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 700
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Cairo-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cairo-SemiBold.ttf
+          weight: 900

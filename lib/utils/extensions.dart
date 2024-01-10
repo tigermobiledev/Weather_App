@@ -17,8 +17,12 @@ extension StringExtension on String {
 
   /// convert the date to time => 2023-09-24 01:00 = 01:00
   String convertToTime() {
+    final now = DateTime.now();
     var dateTime = DateTime.parse(this);
-    if (dateTime.hour == DateTime.now().hour) return Strings.now.tr;
+    if (dateTime.hour == now.hour &&
+        dateTime.year == now.year &&
+        dateTime.month == now.month &&
+        dateTime.day == now.day) return Strings.now.tr;
     return DateFormat('HH:mm').format(dateTime);
   }
 

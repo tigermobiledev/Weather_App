@@ -29,13 +29,6 @@ This project relied on this [Flutter Getx](https://pub.dev/packages/get).
 
 <img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/0f8bce55-ab58-4f1c-8f05-198329b1909b" width="300" />
 
-
----
-## Apk
-
-[Here](https://drive.google.com/file/d/1Uhc2NJSlC2TccwyttEkDorWHRKwfHTDx/view?usp=sharing)
-
-
 ---
 
 ## Overview 📙
@@ -94,4 +87,9 @@ The Flutter Weather App is a visually captivating and fully functional User Inte
    ```dart
    flutter run
    ```
+---
+
+## Testing
+<img width="800" alt="Screenshot 2024-01-10 at 2 03 42 AM" src="https://github.com/tigermobiledev/Weather_App/assets/31665860/65a17b47-07a5-4c13-81c4-cbe5cc3a97ad">
+
 ---

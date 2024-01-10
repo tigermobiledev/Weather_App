@@ -5,29 +5,33 @@ A Flutter Application To Discover The Weather Using [Open Meteo](https://open-me
 This project relied on this [Flutter Getx](https://pub.dev/packages/get).
 
 ## Demo of the application 🎥
-[Download](https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/f613486e-de87-49c8-9a98-987a81aeaaba)
+[Download](https://github.com/tigermobiledev/Weather_App/assets/31665860/3df4548c-7246-434f-8a6e-3e0c661c4a2e)
 
 
 ---
 
 ## Error handling 🎥
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/0f8bce55-ab58-4f1c-8f05-198329b1909b" width="300" />
+[Download](https://github.com/tigermobiledev/Weather_App/assets/31665860/5b004508-995a-4b0b-a001-dbf8773cb69c)
 
 
 ---
 
 ## Screenshots of the application 📷
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/c2e5cf1b-1b0d-4277-8771-deecb223fe51" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/daadc6d7-35da-414b-a709-23f91221b885" width="300" />
 
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/edcc22dc-faa3-466c-9f76-c05bec4518d6" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/b0aa244a-1963-484f-bf33-dc6ec5c6f8fd" width="300" />
 
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/6af49de6-6272-4118-ad8e-d38d58bd7ec0" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/5fad7e27-114f-4c1f-a147-f234ddf61df8" width="300" />
 
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/4dedd8b4-4ac7-4d71-affc-dc10a92502a7" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/4764e257-e0d5-485c-a2ca-d64217692788" width="300" />
 
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/81d6492b-8577-4f06-987f-c9c306bb124a" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/3729fb42-8574-4296-bddd-f5cbde3b3b02" width="300" />
 
-<img src="https://github.com/tigermobiledev/flutter_weather_app/assets/31665860/0f8bce55-ab58-4f1c-8f05-198329b1909b" width="300" />
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/d759c68d-3e73-478d-9543-d9f3712a75c9" width="300" />
+
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/06bde185-a6d9-40c5-9a42-ae42ac261b8c" width="300" />
+
+<img src="https://github.com/tigermobiledev/Weather_App/assets/31665860/5982356a-2467-4f8c-aae6-28bc34b97f24" width="300" />
 
 ---
 

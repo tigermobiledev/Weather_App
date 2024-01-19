@@ -45,8 +45,6 @@ The Flutter Weather App is a visually captivating and fully functional User Inte
 - [dio](https://pub.dev/packages/dio) - A powerful HTTP networking package for Dart/Flutter.
 - [location](https://pub.dev/packages/location) - For easy access to device's location in real-time.
 - [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator) - Customizable animated page indicator with a set of built-in effects.
-- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
-- [cached_network_image](https://pub.dev/packages/cached_network_image) - Flutter library to load and cache network images.
 - [shimmer](https://pub.dev/packages/shimmer) - A package provides an easy way to add a shimmer effect.
 - [intl](https://pub.dev/packages/intl) - Contains code to deal with date and number formatting and parsing.
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) - Adapting screen and font size.
